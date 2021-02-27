@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import Module1 from './components/Module1.vue'
+import Module1 from './components/Module2.vue'
 import Vue from 'vue'
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 
