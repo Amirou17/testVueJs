@@ -1,1 +1,4 @@
 # testVueJs
+Pour géner le token
+
+curl -X POST https://entreprise.pole-emploi.fr/connexion/oauth2/access_token?realm=%2Fpartenaire -d "grant_type=client_credentials&client_id=PAR_labonneboite_0e637e879694d9e34b0ed11f466262de9b25ec7d9807819f962c78e03573e092&client_secret=2f55ff53e35d0b345890634069ac3e5c56f0030b2e166ccec0c403f7f3ed9fa0&scope=application_PAR_labonneboite_0e637e879694d9e34b0ed11f466262de9b25ec7d9807819f962c78e03573e092%20api_labonneboitev1"
